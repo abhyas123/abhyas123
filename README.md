@@ -1,16 +1,128 @@
-## Hi there 👋
+<!-- Animated Header -->
+<h1 align="center">
+  Hi 👋, I'm Abhyas Paranjiya
+</h1>
 
-<!--
-**abhyas123/abhyas123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  🚀 Java Backend Developer | Microservices Enthusiast | Final Year CSE Student
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=550&lines=Java+%7C+Spring+Boot+Developer;Microservices+Architecture;Backend+Engineering+Enthusiast;Always+Learning+New+Tech" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhyas123&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🧠 About Me  
+
+✨ Passionate about **building scalable backend systems**  
+🎓 **B.Tech Computer Science (Final Year)**  
+💻 Strong focus on **Java, Spring Boot & Microservices**  
+🚀 Built a **production-level E-Commerce platform**  
+🎯 Goal: **Java Backend / Software Engineer**
+
+---
+
+## 🛠️ Tech Stack  
+
+### 👨‍💻 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,js,sql" />
+</p>
+
+### ⚙️ Backend & Frameworks  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
+</p>
+
+### 🗄️ Databases & Messaging  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,redis,kafka" />
+</p>
+
+### ☁️ DevOps & Cloud  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+</p>
+
+### 🧰 Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=idea,postman" />
+</p>
+
+---
+
+## 🚀 Featured Project  
+
+### 🛒 Microservices-Based E-Commerce Platform  
+
+🔹 **Tech Stack:**  
+`Spring Boot · Microservices · MySQL · Kafka · Redis · Docker · JWT · Eureka · API Gateway`
+
+🔹 **Key Features:**  
+- 🔐 JWT + OTP Authentication  
+- 👤 Role-Based Access (User / Admin)  
+- 📦 Inventory & Stock Reservation  
+- 🛍️ Order Lifecycle Management  
+- 💳 Razorpay Payment Integration  
+- 📧 Kafka-based Email Notifications  
+- 🚦 API Gateway with Rate Limiting  
+- 🔍 Service Discovery (Eureka)
+
+🔹 **Architecture:**  
+✔ Event-Driven  
+✔ Scalable  
+✔ Production-Oriented  
+
+👉 **GitHub Repo:**  
+🔗 https://github.com/abhyas123/E-commerce-website-
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhyas123&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhyas123&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhyas123&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Competitive & Academic Strength  
+
+✅ Data Structures & Algorithms  
+✅ OOPS, DBMS, OS, CN  
+✅ Microservices Design  
+✅ Placement & Interview Preparation  
+
+---
+
+## 🤝 Connect With Me  
+
+<p align="center">
+  <a href="mailto:paranjiyaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/abhyas123">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <!-- Add LinkedIn when ready -->
+</p>
+
+---
+
+<h3 align="center">
+⭐ If you like my work, give a star & follow me!
+</h3>
