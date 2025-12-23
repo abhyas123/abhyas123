@@ -26,29 +26,29 @@
 🎯 Goal: **Java Backend / Software Engineer**
 
 ---
-## 🛠️ Tech Stack  
+## 👨‍💻Tech Stack 🛠️  
 
-### 👨‍💻 Core Languages  
+### 💻 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,sql" />
+  <img src="https://skillicons.dev/icons?i=java,c,js,sql" />
 </p>
 
-### 🧩 Backend Development  
+### ⚙️ Backend Technologies  
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
+  <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
-### 🗄️ Data & Messaging  
+### 🗄️ Database  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis,kafka" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### ☁️ DevOps & Infrastructure  
+### ☁️ DevOps & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
 
-### 🔧 Developer Tools  
+### 🔧 Development Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=idea,postman" />
 </p>
